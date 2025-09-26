@@ -2,6 +2,9 @@
   "identity": {
     "file_name": "identity.json"
   },
+    "saline_alkali_soil_zh_ai": {
+    "file_name": "saline_alkali_soil_zh_ai.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
