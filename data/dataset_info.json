@@ -2,15 +2,18 @@
   "identity": {
     "file_name": "identity.json"
   },
-    "saline_alkali_soil_zh_ai": {
-    "file_name": "saline_alkali_soil_zh_ai.json"
+  "saline_alkali_soil_alpaca": {
+    "file_name": "saline_alkali_soil_alpaca.json"
   },
-  "saline_alkali_soil_zh_ai_sharegpt": {
-    "file_name": "saline_alkali_soil_zh_ai_sharegpt.json",
+  "saline_alkali_soil_sharegpt": {
+    "file_name": "saline_alkali_soil_sharegpt.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "conversations"
     }
+  },
+  "saline_alkali_soil_general": {
+    "file_name": "saline_alkali_soil_general.json"
   },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
